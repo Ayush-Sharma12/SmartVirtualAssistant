@@ -1,7 +1,3 @@
-Here’s a **README.md** text based on your *SmartTalk* project description from the image:
-
----
-
 # SmartTalk 🗣️
 
 *A Smart Virtual Assistant – Web-based and Voice-Controlled*
